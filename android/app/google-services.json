@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "808011932764",
+    "project_id": "droptime-79545",
+    "storage_bucket": "droptime-79545.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808011932764:android:3228fc8f85f0c4080db299",
+        "android_client_info": {
+          "package_name": "com.example.drop_time"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808011932764-09nssrjk12htnvs7bqpepmvvnlstmrg3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhkQvKosRg1aG4SfzopYFtJBAdzsmPzpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "808011932764-09nssrjk12htnvs7bqpepmvvnlstmrg3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
